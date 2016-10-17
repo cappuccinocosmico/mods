@@ -14,3 +14,5 @@ This mod enables skyblock progression but it also enables so much more. Because 
 ## Mystcraft
 ### Made by: XZWizComp
 We absolutely love LOVE this mod, and it is realy the glue that holds this pack together
+## Applied energistics
+This mod is more of a ease of life change, without it inventory managment is a real pain in the @#$%@
