@@ -1,0 +1,16 @@
+[
+{
+  "modid": "territorychevsky",
+  "name": "Territorial Dealings",
+  "description": "Territories, factions, protections and how to deal with it all.",
+  "version": "b12",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Domochevsky"],
+  "credits": "None.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
